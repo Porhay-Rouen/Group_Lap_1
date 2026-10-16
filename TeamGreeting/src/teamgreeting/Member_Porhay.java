@@ -8,7 +8,7 @@ package teamgreeting;
  *
  * @author macbookpro
  */
-public class TeamGreeting {
+public class Member_Porhay {
 
     /**
      * @param args the command line arguments
@@ -16,7 +16,8 @@ public class TeamGreeting {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("This is on a new line.");
+        System.out.println("Hello this is porhay.");
+        System.out.println("If you see this class please also create one too! It cools!!!");
 
     }
     
