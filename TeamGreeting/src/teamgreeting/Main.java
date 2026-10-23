@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
        
         Member_Porhay.main(args);
+        Member_MuyKhim.main(args);
         
         
     }
