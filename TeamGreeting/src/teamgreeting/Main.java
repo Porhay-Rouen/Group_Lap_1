@@ -15,6 +15,7 @@ public class Main {
        
         Member_Porhay.main(args);
         Member_MuyKhim.main(args);
+        Member_BrendanGilbert.main(args);
         
         
     }
