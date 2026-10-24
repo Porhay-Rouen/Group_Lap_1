@@ -18,7 +18,6 @@ public class Member_Porhay {
         
         System.out.println("Hello this is porhay.");
         System.out.println("If you see this class please also create one too! It cools!!!");
-        Member_RaeNeice.main(args);
 
     }
     
